@@ -1,8 +1,8 @@
 
 module.exports = {
   server: {
-    port:8080, // default: 3000
-    host: 'localhost' // default: localhost
+    port:80, // default: 3000
+    host: '103.226.248.172' // default: localhost
   },
   sms:{
     // Token send sms 
